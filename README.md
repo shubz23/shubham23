@@ -1,4 +1,4 @@
-<h1 align="center">Hey Guy's<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Shubham Saxena</h1>
+<img alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />
 
 <div align="center">
   <img src ="![banner](https://github.com/user-attachments/assets/33c74864-84c3-4ca8-8a5b-0e964ce6c4c1)" />
